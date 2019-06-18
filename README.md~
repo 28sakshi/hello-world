@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+# This is repo for Python Codes
+## This is Code I have learned during python training
+### Total python Repository.
+=======
+# hello-world
+#include<stdio.h>
+#include<conio.h>
+using namespace std;
+int main()
+{
+  printf("Hello World");
+  return 0;
+}  
+>>>>>>> 7f840314ebb2cab582d0c09406798d8428dd0ba1
